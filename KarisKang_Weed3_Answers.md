@@ -1,13 +1,7 @@
-# Problem Set 1
-## Due 2/15/2023
+Problem Set 1
+Due 2/15/2023
 
-### Instructions
-
-* Please answer all questions using a Markdown or RMarkdown, showing all work.
-* Please place your files in this same directory in the format of `YourName_Week3_Answers.md`
-* Problem sets can be worked on collaboratively, but please note who you worked with in your answer document
-
-
+Instructions
 
 ## Problems
 
